@@ -53,4 +53,6 @@ Enthusiast spare time full-stack dev, full time cybersecurity executive.
 <a href="https://planetscale.com/">
 <img alt="Planet Scale" width="50px" src="./images/planetscale.png"/> </a>
 <img width="2px" src="./images/blank.png">
+<img alt="Heroku" height="50px" src="./images/heroku.png"/> </a>
+<img width="2px" src="./images/blank.png">
 </p>
