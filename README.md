@@ -12,6 +12,8 @@ Enthusiast spare time full-stack dev, full time cybersecurity executive.
 <img alt="React" width="50px" src="./images/react.png"/>
 <img width="2px" src="./images/blank.png">
 <img alt="Next.js" width="50px" src="./images/nextjs.png"/>
+<img width="2px" src="./images/blank.png">
+<img alt="Flutter" width="50px" src="./images/flutter.png"/>
 </p>
 <br>
 
