@@ -13,7 +13,7 @@ Enthusiast spare time full-stack dev, full time cybersecurity executive.
 <img width="2px" src="./images/blank.png">
 <img alt="Next.js" width="50px" src="./images/nextjs.png"/>
 <img width="2px" src="./images/blank.png">
-<img alt="Flutter" width="50px" src="./images/flutter.png"/>
+<img alt="Flutter" height="50px" src="./images/flutter.png"/>
 </p>
 <br>
 
@@ -35,7 +35,7 @@ Enthusiast spare time full-stack dev, full time cybersecurity executive.
 <img alt="Kubernetes" width="50px" src="./images/k8s.png" /></a>
 <img width="2px" src="./images/blank.png">
 <a href="https://docker.com/">
-<img alt="Docker" height="50px" src="./images/docker.png" /></a>
+<img alt="Docker" width="50px" src="./images/docker.png" /></a>
 </p>
 <br>
 
